@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjddnd3116)](https://solved.ac/tjddnd3116)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/soum)](https://github.com/JaeSeoKim/badge42)
