@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 
 -Libft : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/soum/Libft)](https://github.com/JaeSeoKim/badge42)
+-born2beroot : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/soum/born2beroot)](https://github.com/JaeSeoKim/badge42)
