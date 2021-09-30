@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 -get_next_line : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/soum/get_next_line)](https://github.com/JaeSeoKim/badge42)
 
 -ft_printf :  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/soum/ft_printf)](https://github.com/JaeSeoKim/badge42)
+
+-minitalk : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/soum/minitalk)](https://github.com/JaeSeoKim/badge42)
+
