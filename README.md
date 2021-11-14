@@ -1,5 +1,5 @@
 ### tjddnd3116 👋
-## Hello world
+  42 seoul cadet -soum
 
 <!--
 **tjddnd3116/tjddnd3116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
